@@ -116,7 +116,7 @@ concerns with existing protocols.
 
 [http://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-August/010396.html Softfork deployment considerations]
 
-[https://gist.github.com/sipa/bf69659f43e763540550 Version bits]
+[https://web.archive.org/web/20210925124425/https://gist.github.com/sipa/bf69659f43e763540550 Version bits]
 
 
 ==Copyright==
